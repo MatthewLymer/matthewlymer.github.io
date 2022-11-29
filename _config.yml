@@ -45,11 +45,6 @@ social:
   links:
     # The first element serves as the copyright owner's link  
     - https://lymer.ca
-    - https://www.linkedin.com/in/matthewlymer/
-    - https://stackoverflow.com/users/507793/matthew
-    - https://github.com/MatthewLymer
-    - https://www.facebook.com/matthew.lymer
-
 
 google_site_verification:               # fill in to your verification string
 
@@ -84,7 +79,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/rockfest-gumby.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
