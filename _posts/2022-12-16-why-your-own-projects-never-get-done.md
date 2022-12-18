@@ -35,7 +35,7 @@ I should have **leveraged existing tools** like [Wordpress](https://wordpress.co
 
 
 ## You need it to be perfect
-This aphorism ["Perfect is the enemy of good"](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good){:target="_blank"} is particularly apt when working on our own projects.  Our projects are a creative expression of ourselves, so naturally we want them to be presented in the best light possible.  Unfortunately this results in many projects never being considered "finished" and release worthy.  
+The aphorism ["Perfect is the enemy of good"](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good){:target="_blank"} is particularly apt when working on our own projects.  Our projects are a creative expression of ourselves, so naturally we want them to be presented in the best light possible.  Unfortunately this results in many projects never being considered "finished" and release worthy.  
 
 Instead, **get something that provides value out the door**, what you release may very well be good enough.  Once released, you can make the decision on whether you want to iterate on it.
 
