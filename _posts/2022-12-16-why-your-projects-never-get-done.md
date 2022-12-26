@@ -41,10 +41,10 @@ I should have **leveraged existing tools** like [Wordpress](https://wordpress.co
 Instead, **get anything that provides value out the door**, what you release may very well be good enough.  Once released, you can make the decision on whether you want to iterate on it.
 
 
-# You have too much going on at once
-If you're like me, you probably have tonnes of ideas of all shapes and sizes.
+## You have too much going on at once
+If you're like me, you probably have lots of ideas.  While having many ideas is great, trying to do them all at once prevents you from finishing any.
 
-You can **write down your thoughts** in a notepad, [Microsoft OneNote](https://www.onenote.com/){:target="_blank"}, [Apple Notes](https://www.icloud.com/notes){:target="_blank"}, or [EverNote](https://evernote.com/){:target="_blank"}.  During the writing of this post I've had ideas new posts, so I simply jotted down the idea rather than shift away my focus.  This also gives the chance to prioritize it against the other projects.
+Instead, you can **write down your thoughts** in a notepad or notes software.  During the writing of this post I've had ideas of new content to write, so I simply jotted down the idea rather than shift away my focus.  Not shifting focus also gives the chance to prioritize it against the other projects.
 
 # Final thoughts
 I'll assume this 3 minute read wasn't a silver-bullet for you, but hopefully it has given a different perspective on managing your projects.  Take some time to think about what's holding you back and document them, having a problem in your face is a great way to start addressing them.
