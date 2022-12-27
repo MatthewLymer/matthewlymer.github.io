@@ -41,7 +41,7 @@ I should have **used existing tooling** like [Wordpress](https://wordpress.com){
 Instead, **get anything that provides value out the door**, what you release may very well be good enough.  Once released, you can make the decision on whether you want to iterate on it.
 
 
-## You keep starting new projects
+## You shift focus too often
 If you're like me, you probably have lots of ideas.  While having many ideas is great, trying to do them all at once usually means none of them get completed.
 
 Instead, **write down your ideas and save them for later**.  During the writing of this post I've had ideas for new posts, but now I can prioritize them against the rest of my projects.
