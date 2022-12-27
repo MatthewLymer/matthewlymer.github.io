@@ -23,13 +23,13 @@ This is obvious, projects don't get done if you don't work on them.  Since you p
 Additionally, consider **cutting back on lesser passtimes**, the sense of accomplishment is worth more than the [disappointing 8th season of Game of Thrones](https://www.rottentomatoes.com/tv/game_of_thrones/s08){:target="_blank"}.
 
 
-## You spend too much time experimenting
+## You experiment too much
 You have the freedom to do whatever you want with your projects.  Experimenting is a fun way to learn new skills, and it's beneficial to try out new things.  However, if left unchecked, it will consume all the time you've allocated to work on your project, and you'll having nothing tangible to show for it.  
 
 Instead, you should **timebox your experimenting** to something that still allows you to make tangible progress.  Experimenting is still very important, but best to avoid things that aren't demonstrably progressing your goal.
 
 
-## You need to do everything yourself
+## You do everything yourself
 In your projects you want to showcase your capabilities, which is why ["Not invented here"](https://en.wikipedia.org/wiki/Not_invented_here){:target="_blank"} is applicable for me.  Until seeing my co-worker [George Aristy's website](https://llorllale.github.io/){:target="_blank"}, I was spending my time writing a backend, learning frontend techniques, and researching infrastructure patterns, basically everything except writing articles.  Needless to say this was not a very efficient way to achieve my goal.
 
 I should have **used existing tooling** like [Wordpress](https://wordpress.com){:target="_blank"}, [Jekyll](https://jekyllrb.com/){:target="_blank"}, or [GitHub Pages](https://pages.github.com/){:target="_blank"} from the start.
@@ -41,10 +41,11 @@ I should have **used existing tooling** like [Wordpress](https://wordpress.com){
 Instead, **get anything that provides value out the door**, what you release may very well be good enough.  Once released, you can make the decision on whether you want to iterate on it.
 
 
-## You have too much going on at once
+## You keep starting new projects
 If you're like me, you probably have lots of ideas.  While having many ideas is great, trying to do them all at once usually means none of them get completed.
 
-Instead, **write down your ideas and save them later**.  During the writing of this post I've had ideas for new posts, but now I can prioritize them against the rest of my projects.
+Instead, **write down your ideas and save them for later**.  During the writing of this post I've had ideas for new posts, but now I can prioritize them against the rest of my projects.
+
 
 # Final thoughts
 I'll assume this 3 minute read wasn't a silver-bullet for you, but hopefully it has given a different perspective on managing your projects.  Take some time to think about what's holding you back and then write them down, seeing a problem right in front of you is a great start to addressing them.
